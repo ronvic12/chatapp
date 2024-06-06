@@ -1,3 +1,6 @@
+# Source used to build a simple chat app using Angular:
+https://ably.com/blog/realtime-chat-app-websockets-angular-firebase
+
 # Firechat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
